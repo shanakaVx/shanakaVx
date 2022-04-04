@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shanakaVx
 - 👀 I’m interested in Frontend React Node then Java Springboot
-- 🌱 I’m currently learning UX, React, Springboot
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m Always Learning 😜
+- 💞️ I’m looking to collaborate on any project in my domain
 - 📫 How to reach me https://www.linkedin.com/in/shanakavx/
 
 <!---
