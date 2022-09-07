@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @shanakaVx
-- 👀 I’m interested in Frontend React Node then Java Springboot
-- 🌱 I’m Always Learning 😜
-- 💞️ I’m looking to collaborate on any project in my domain
-- 📫 How to reach me https://www.linkedin.com/in/shanakavx/
+👀 Full-stack engineer ⚛ React 🍵 Javascript ☕ Java 💚 NodeJs 💄CSS 📃 HTML
+🎭 Figma 📷 Photoshop 🖋 Illustrator 🌱 Motivated and always learning, 
+💞️ Will collaborate on any project in my domain
+📫 Reach me at https://www.linkedin.com/in/shanakavx/
 
 <!---
 shanakaVx/shanakaVx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
